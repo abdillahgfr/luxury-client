@@ -1,0 +1,154 @@
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Googlebot-Mobile
+Allow: /
+
+User-agent: Mediapartners-Google
+Allow: /
+
+User-agent: Mediapartners-Google*
+Allow: /
+
+User-agent: msnbot
+Allow: /
+
+User-agent: msnbot-media
+Allow: /
+
+User-agent: Yahoo! Slurp 
+Allow: /
+
+User-agent: Yahoo!-AdCrawler
+Allow: /
+
+User-agent: yahoo-blogs/v3.9
+Allow: /
+
+User-agent: yahoo-mmcrawler
+Allow: /
+
+User-agent: YahooSeeker
+Allow: /
+
+User-agent: yahoo-slurp
+Allow: /
+
+User-agent: asterias
+Allow: /
+
+User-agent: BecomeBot
+Allow: /
+
+User-agent: Charlotte
+Allow: /
+
+User-agent: CollapsarWEB
+Allow: /
+
+User-agent: Dolphin
+Allow: /
+
+User-agent: Evri
+Allow: /
+
+User-agent: EvriNid
+Allow: /
+
+User-agent: Exabot
+Allow: /
+
+User-agent: Fbot
+Allow: /
+
+User-agent: gigabot
+Allow: /
+
+User-agent: Holmes
+Allow: /
+
+User-agent: ia_archiver
+Allow: /
+
+User-agent: IRLbot 
+Allow: /
+
+User-agent: IsraBot
+Allow: /
+
+User-agent: linksmanager
+Allow: /
+
+User-agent: linksmanager_bot
+Allow: /
+
+User-agent: naverbot
+Allow: /
+
+User-agent: nutch
+Allow: /
+
+User-agent: Onet
+Allow: /
+
+User-agent: onet.pl
+Allow: /
+
+User-agent: OnetSzukaj
+Allow: /
+
+User-agent: Orthogaffe
+Allow: /
+
+User-agent: psbot
+Allow: /
+
+User-agent: robozilla
+Allow: /
+
+User-agent: scrubby
+Allow: /
+
+User-agent: ShopWiki
+Allow: /
+
+User-agent: sitecheck.internetseer.com
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: Speedy
+Allow: /
+
+User-agent: teoma
+Allow: /
+
+User-agent: twiceler
+Allow: /
+
+User-agent: webcrawler
+Allow: /
+
+User-agent: Yeti
+Allow: /
+
+User-agent: YoudaoBot
+Allow: /
+
+User-agent: ZyBORG
+Allow: /
+
+User-agent: bingbot
+Allow: /
+
+User-agent: * 
+Disallow: /
+Allow: /images/
+
+
+
+Sitemap: https://bimtekpelatihannasional.com/sitemap.xml

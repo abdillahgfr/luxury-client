@@ -1,0 +1,13 @@
+       <!--<li class="{{ request()->is(-->
+            <!--        'admin/data-blog',-->
+            <!--        'admin/data-blog/add',-->
+                   
+            <!--    )-->
+            <!--        ? 'active'-->
+            <!--        : '' }}">-->
+            <!--    <a href="{{ route('be-blog') }}" class="link">-->
+            <!--        <i class="ti-files"></i>-->
+            <!--        <span>Data Blog</span>-->
+            <!--    </a>-->
+            <!--</li>-->
+            
